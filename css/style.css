@@ -1,0 +1,71 @@
+body{
+  background-color: #dff6f4;
+}
+body h1{
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 40px;
+  color: #000;
+}
+h2{
+  font-family: 'Josefin Slab', serif;
+  font-size: 35px;
+}
+img{
+  border: solid 4px #ff0000;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: red;
+}
+p{
+  font-family: 'Josefin Slab', serif;
+  font-size: 18px;
+  line-height: 25px;
+}
+h3{
+  font-size: 18px;
+  font-family: sans-serif;
+  font-style: oblique;
+  font-weight: 600;
+}
+.touch-container .touch-wrap h2{
+  text-align: center;
+}
+.touch-container .touch-wrap h4 {
+    text-align: center;
+    font-size: 18px;
+    font-family: monospace;
+  }
+.touch-container .touch-wrap  p {
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+  }
+.touch-container .touch-wrap  a{
+    text-decoration: none;
+    margin-left: 700px;
+    font-size: 20px;
+}
+.footer{
+  margin-top: 15px;
+}
+.footer a{
+  text-decoration: none;
+  margin-left: 738px;
+  font-size: 16px;
+}
+.footer p{
+    font-family: auto;
+    font-size: 16px;
+    text-align: center;
+    background-color: #;
+    background-color: #1801f8;
+    padding: 20px;
+    margin-top: 70px;
+    .hover-overlay{
+        position: relative;
+}
